@@ -17,6 +17,7 @@ Feel free to take a look!</strong></p>
 <h2 align="left">IDEs I like to code on:</h2>
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white&labelColor=101010)]()
 
 <h2 align="left">Tech skills:</h2>
 
