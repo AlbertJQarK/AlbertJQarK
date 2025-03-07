@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <p align="center" width="300">
    <h1 align="center">¡Hey there👋! I'm Albert</h1>
 </p>
@@ -14,4 +11,5 @@ Feel free to take a look!</strong></p>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
