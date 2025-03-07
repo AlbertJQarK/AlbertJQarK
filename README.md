@@ -2,7 +2,7 @@
    <h1 align="center">¡Hey there👋! I'm Albert</h1>
 </p>
 <p align="center"><strong>Android Developer & passionate about learning new technologies.</strong></p>
-<p align="justify">In my personal repository you will find some interesting Android projects testing different technologies and more!.   
+<p align="justify">In my personal repository you will find some interesting Android projects with different technologies and many more!   
 Feel free to take a look!</strong></p>
 
 
