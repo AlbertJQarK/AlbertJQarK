@@ -26,3 +26,10 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=101010)]()
 [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff&labelColor=101010)]()
+
+
+## GitHub stats:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danifdezalonso&show_icons=true&theme=dark)](https://github.com/danifdezalonso/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifdezalonso&show_icons=true&theme=dark)
