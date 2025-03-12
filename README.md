@@ -30,6 +30,6 @@
 
 ## GitHub stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danifdezalonso&show_icons=true&theme=dark)](https://github.com/danifdezalonso/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlbertJQarK&show_icons=true&theme=dark)](https://github.com/AlbertJQarK/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifdezalonso&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertJQarK&show_icons=true&theme=dark)
