@@ -22,13 +22,18 @@
 
 <br>
 
-## 🧰 Tools I commonly use
+## 📱 Android tools
 
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=fff)](https://gradle.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat)](https://developer.android.com/jetpack/compose)
 [![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=fff)](https://github.com/Kotlin/kotlinx.coroutines)
 [![Room](https://img.shields.io/badge/Room-4A90D9?style=flat)](https://developer.android.com/reference/androidx/persistence/room)
 [![Retrofit](https://img.shields.io/badge/Retrofit-2496ED?style=flat)](https://square.github.io/retrofit/)
+
+<br>
+
+## 🐧 Linux & homelab
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff)](https://kubernetes.io)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E66B3E?style=flat&logo=proxmox&logoColor=fff)](https://www.proxmox.com)
