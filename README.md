@@ -10,7 +10,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)](https://www.typescriptlang.org)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://jdk.java.net)
-[![C++](https://img.shields.io/badge/C++-00599F?style=flat&logo=cpp&logoColor=fff)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
 
